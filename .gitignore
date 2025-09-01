@@ -15,9 +15,7 @@ runs/
 outputs/
 
 # Big data & archives (adjust as you like)
-data/
-datasets/
-raw/
+
 *.zip
 *.7z
 *.tar
@@ -38,3 +36,4 @@ raw/
 *.npz
 *.pkl
 *.sqlite
+
