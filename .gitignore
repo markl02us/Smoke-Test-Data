@@ -1,0 +1,40 @@
+﻿# OS/editor junk
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Python envs/caches
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Typical trainer outputs
+runs/
+outputs/
+
+# Big data & archives (adjust as you like)
+data/
+datasets/
+raw/
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.tif
+*.tiff
+*.pt
+*.onnx
+*.ckpt
+*.h5
+*.npy
+*.npz
+*.pkl
+*.sqlite
